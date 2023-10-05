@@ -6,11 +6,10 @@ https://www.kaggle.com/barrettotte
 
 ## Competitions
 
-| Directory                              | Competition URL                                      | Score   |
-| -------------------------------------- | ---------------------------------------------------- | ------- |
-| [digit-recognizer/](digit-recognizer/) | https://www.kaggle.com/competitions/digit-recognizer | 0.99035 |
-| [titanic/](titanic/)                   | https://www.kaggle.com/competitions/titanic          | 0.77511 |
-
+| Directory                              | Competition URL                                      | Best Score | Kaggle Notebook URL |
+| -------------------------------------- | ---------------------------------------------------- | ---------- | ------------------- |
+| [digit-recognizer/](digit-recognizer/) | https://www.kaggle.com/competitions/digit-recognizer | 0.99035    | https://www.kaggle.com/code/barrettotte/digit-recognizer-pytorch |
+| [titanic/](titanic/)                   | https://www.kaggle.com/competitions/titanic          | 0.77511    | https://www.kaggle.com/code/barrettotte/titanic |
 
 ## Misc
 
