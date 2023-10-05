@@ -31,5 +31,24 @@ conda install -c numpy pandas matplotlib scikit-learn -y
 conda install -c conda-forge torchinfo torchmetrics -y
 
 # https://pytorch.org/get-started/locally/#anaconda
-conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia -y
+conda install pytorch torchvision torchaudio torchinfo pytorch-cuda=11.7 -c pytorch -c nvidia -y
+```
+
+## Kaggle
+
+```sh
+pip install kaggle
+```
+
+https://www.kaggle.com/settings/account > API > Create New Token
+
+Move to `C:\Users\<USERNAME>\.kaggle\kaggle.json`
+```json
+{}
+```
+
+```ps1
+# example
+kaggle competitions download -c titanic
+Expand-Archive .\titanic.zip .
 ```
