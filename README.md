@@ -8,7 +8,7 @@ https://www.kaggle.com/barrettotte
 
 | Directory                              | Competition URL                                      | Score   |
 | -------------------------------------- | ---------------------------------------------------- | ------- |
-| [digit-recognizer/](digit-recognizer/) | https://www.kaggle.com/competitions/digit-recognizer |         |
+| [digit-recognizer/](digit-recognizer/) | https://www.kaggle.com/competitions/digit-recognizer | 0.99035 |
 | [titanic/](titanic/)                   | https://www.kaggle.com/competitions/titanic          | 0.77511 |
 
 
