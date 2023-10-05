@@ -1,12 +1,16 @@
 # kaggle
 
-My Kaggle notebooks
+My Kaggle notebooks for competitions
 
-## Notebooks
+https://www.kaggle.com/barrettotte
 
-| Notebook      | Kaggle Notebook URL | Competition URL |
-| ------------- | ------------------- | --------------- |
-|               |                     |                 |
+## Competitions
+
+| Directory                              | Competition URL                                      | Score   |
+| -------------------------------------- | ---------------------------------------------------- | ------- |
+| [digit-recognizer/](digit-recognizer/) | https://www.kaggle.com/competitions/digit-recognizer |         |
+| [titanic/](titanic/)                   | https://www.kaggle.com/competitions/titanic          | 0.77511 |
+
 
 ## Misc
 
