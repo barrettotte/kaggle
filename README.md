@@ -9,7 +9,7 @@ https://www.kaggle.com/barrettotte
 | Directory                                                        | Competition URL                                                                                                   | Best Score | Notebook URL |
 | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------- | ------------ |
 | [digit-recognizer/](digit-recognizer/)                           | [competitions/digit-recognizer](https://www.kaggle.com/competitions/digit-recognizer)                             | 0.99035    | [barrettotte/digit-recognizer-pytorch](https://www.kaggle.com/code/barrettotte/digit-recognizer-pytorch) |
-| [plant-seedling-classification/](plant-seedling-classification/) | [competitions/plant-seedlings-classification](https://www.kaggle.com/competitions/plant-seedlings-classification) | 0.95591    |              |
+| [plant-seedling-classification/](plant-seedling-classification/) | [competitions/plant-seedlings-classification](https://www.kaggle.com/competitions/plant-seedlings-classification) | 0.95591    | [barretotte/plant-seedlings-classification-pytorch-resnet18](https://www.kaggle.com/code/barrettotte/plant-seedlings-classification-pytorch-resnet18) |
 | [titanic/](titanic/)                                             | [competitions/titanic](https://www.kaggle.com/competitions/titanic)                                               | 0.77511    | [barrettotte/titanic](https://www.kaggle.com/code/barrettotte/titanic) |
 
 ## Misc
