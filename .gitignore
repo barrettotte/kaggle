@@ -4,3 +4,6 @@ data/
 
 *.csv
 *.zip
+*.log
+
+*.pth
